@@ -5,3 +5,7 @@ What Hardware? such as keyboard, mouse, headphones, and the like.
 Graphical User Interface, or GUI: This GUI (get it?), makes all of our lives easier. 
 The GUI is what we experience when we are prompted through program downloads, updates or simply opening a problem.
 Imagine if we had to know exactly what and why we were using all these functions - thankfully those who design these know just that! 
+
+Process Management - Probably one of the more important facets of a standard OS. 
+Without Process management, how would your computer know what order to distribute information / updates / bandwidth? 
+As a user, we don't think about what has priority and what doesn't - especoally here in the days of multi-tasking. We depend on this function to keep us streaming, reading, and so much more! 
